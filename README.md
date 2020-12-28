@@ -2,7 +2,7 @@
 Medium Owned Publications
 
 | No | Name  | Type  | Followers |
-|---|---|---|---|---|
+|---|---|---|---|
 | 1  |  [OneZero](https://onezero.medium.com/)              |   |   |
 | 2  |  [Human Parts](https://medium.com/human-parts)       |   |   |
 | 3  |  [Elemental](https://medium.com/elemental-by-medium) |   |   |
